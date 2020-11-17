@@ -1,5 +1,5 @@
 {
-  "name": "whatsapp-bot",
+  "name": "botak-bot",
   "version": "2.0.0",
   "description": "Whatsapp Bot - Node Js",
   "main": "index.js",
@@ -9,12 +9,12 @@
   "author": "ArugaZ",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ArugaZ/whatsapp-bot.git"
+    "url": "https://github.com/ShahzSenpai/Botak.git"
   },
   "bugs": {
-    "url": "https://github.com/ArugaZ/whatsapp-bot/issues"
+    "url": "https://github.com/ShahzSenpai/Botak/issues"
   },
-  "homepage": "https://github.com/ArugaZ/whatsapp-bot",
+  "homepage": "https://github.com/ShahzSenpai/Botak",
   "license": "ISC",
   "dependencies": {
     "@open-wa/wa-automate": "^3.0.16",
